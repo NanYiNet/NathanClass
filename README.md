@@ -7,4 +7,7 @@ Nathan - Class
 > [NathanJwt文档]
 > 
 > NathanJwt::Encode('123456','Nathan');
+> 
 > NathanJwt::Decode('NathanJwtABC123456','Nathan');
+>
+> 安装：composer require nanyinet/nathan-class
