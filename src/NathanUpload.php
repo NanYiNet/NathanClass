@@ -10,7 +10,7 @@
 // +--------------------------------------------+
 // | Created: PHPStorm
 // +--------------------------------------------+
-namespace nathan;
+namespace nanyinet;
 class NathanUpload
 {
     private $uploadPath;

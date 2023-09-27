@@ -1,11 +1,11 @@
 {
-    "name": "nanyinet/nathan-class",
+    "name": "nanyinet/class",
     "description": "Nathan - Class 各种操作类 持续更新 支持composer安装",
 	"keywords": ["Nathan", "Class", "操作类", "composer安装"],
     "license": "MIT",
 	"autoload": {
         "psr-4": {
-            "Nanyinet\\NathanClass\\": "src/"
+            "nanyinet\\": "src/"
         }
     },
     "authors": [
