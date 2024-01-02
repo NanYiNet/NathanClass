@@ -2,7 +2,7 @@ Nathan - Class
 ===============
 > [NathanUpload文档](https://github.com/NanYiNet/NathanUpload)
 > 
-> [NathanUpload文档](https://github.com/NanYiNet/NathanDb)
+> [NathanDb文档](https://github.com/NanYiNet/NathanDb)
 > 
 > [NathanJwt文档]
 > 
